@@ -4,7 +4,7 @@
 
 **Today's Progress**: Started 100 days of code and deliberate practice!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I started the Javascript and noticed it is very similar to c++. I completed variables, strings, arrays, and started functions.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
