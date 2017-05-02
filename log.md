@@ -5,10 +5,8 @@
 **Today's Progress**: Started 100 days of code and deliberate practice!
 
 **Thoughts:** I started the Javascript and noticed it is very similar to c++. I completed variables, strings, arrays, and started functions.
+I started working on the HTML5 and CSS portion of FCC. Going through all the tags and elements was a good review for the final that is coming up in my web design class. One thing I learned was that one element can have more than one class. I also liked the way they explained padding and margins, it was clear and easier to understand. I comML5 and CSS portion of FCC. 
 
-Started: 9:40pm
-Ended:11:06pm
-Completed HTML5 and CSS. I learned that one element can have multiple classes. 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
