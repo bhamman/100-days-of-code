@@ -6,6 +6,10 @@
 
 **Thoughts:** I started the Javascript and noticed it is very similar to c++. I completed variables, strings, arrays, and started functions.
 
+Started: 9:40pm
+Ended:11:06pm
+Completed HTML5 and CSS. I learned that one element can have multiple classes. 
+
 **Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
