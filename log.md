@@ -8,16 +8,12 @@
 I started working on the HTML5 and CSS portion of FCC. Going through all the tags and elements was a good review for the final that is coming up in my web design class. One thing I learned was that one element can have more than one class. I also liked the way they explained padding and margins, it was clear and easier to understand. I completed the HTML5 and CSS portion of FCC. 
 
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: May 2, 2017 (Example 2)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Completed Responsive Design with Bootstrap and started jQuery.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I enjoyed learning about bootstrap and seeing the ways it can make webpages look nice for any device. There are limitless uses for bootstrap. I didn't go farther because I got stuck on the first jQuery challenge, Learn how Script Tags and Document Ready Work. I am not sure what I was doing wrong but I think it had to do with opening and closing the script elements. I was getting frustrated because FCC does not tell you if you're wrong. I know it gives you a check mark for each challenge you complete but when I hit the run test button it seemed like nothing happened because my code was wrong. I'm going to do some research on jQuery so I can knock out that section tomorrow.  
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
