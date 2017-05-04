@@ -16,12 +16,10 @@ I started working on the HTML5 and CSS portion of FCC. Going through all the tag
 
 
 
-### Day 1: June 27, Monday
+### Day 2: May 3, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Almost finished the Javascript section!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I had to skip the last challenge dealing with objects. I'm not sure how to call an object array element and what I was trying to do was not working. I found it a little difficult to learn and understand these objects. They are not so different in C++ but Javascript has nested objects? I will have to go through the Javascript objects section again to see if I can figure it out. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
