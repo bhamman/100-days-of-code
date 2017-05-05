@@ -23,3 +23,11 @@ I started working on the HTML5 and CSS portion of FCC. Going through all the tag
 **Thoughts** I had to skip the last challenge dealing with objects. I'm not sure how to call an object array element and what I was trying to do was not working. I found it a little difficult to learn and understand these objects. They are not so different in C++ but Javascript has nested objects? I will have to go through the Javascript objects section again to see if I can figure it out. 
 
 
+
+### Day 3: May 4, 2017
+
+**Today's Progress**: Completed Basic Javascript and Started Object Oriented and Functional Programming
+
+**Thoughts:** Most of today's time went towards the Profile Lookup challenge in Basic Javascript. The hardest part was not knowing if I had the syntax correct when calling the array of objects. Most of the time was spent reviewing the previous lessons. When I thought I had the syntax correct I had to walk through the code and find the logic error. After that did not work I looked for help in the FCC help forum and found there was one syntax error I missed. If I had looked at the challenge better and wrote out a plan it probably wouldn't have taken so long to complete. 
+
+The Object Oriented and Functional Programming reminds my of structs from C++. The constructers are familiar since we covered it in C++ but the way it is written in Javascript seems messier. It seems all jumbled together instead of being separate in .h and .cpp files.
