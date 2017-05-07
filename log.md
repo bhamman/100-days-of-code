@@ -31,3 +31,12 @@ I started working on the HTML5 and CSS portion of FCC. Going through all the tag
 **Thoughts:** Most of today's time went towards the Profile Lookup challenge in Basic Javascript. The hardest part was not knowing if I had the syntax correct when calling the array of objects. Most of the time was spent reviewing the previous lessons. When I thought I had the syntax correct I had to walk through the code and find the logic error. After that did not work I looked for help in the FCC help forum and found there was one syntax error I missed. If I had looked at the challenge better and wrote out a plan it probably wouldn't have taken so long to complete. 
 
 The Object Oriented and Functional Programming reminds my of structs from C++. The constructers are familiar since we covered it in C++ but the way it is written in Javascript seems messier. It seems all jumbled together instead of being separate in .h and .cpp files.
+
+
+
+
+### Day 5: May 6, 2017
+
+**Today's Progress**: Almost halfway through basic algorithms!
+
+**Thoughts:** The hardest part about the algorithms is that there are special functions that should make these algorithms easier. But it is not as easy as it sounds. I thought I would have gotten farther in today's challenges but they are not as easy as I thought it would be. The one I got stuck on was the palindromes challenge. I could not find a way to replace the symbols and will have to practice the .replace function more before I fully understand. 
