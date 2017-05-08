@@ -40,3 +40,12 @@ The Object Oriented and Functional Programming reminds my of structs from C++. T
 **Today's Progress**: Almost halfway through basic algorithms!
 
 **Thoughts:** The hardest part about the algorithms is that there are special functions that should make these algorithms easier. But it is not as easy as it sounds. I thought I would have gotten farther in today's challenges but they are not as easy as I thought it would be. The one I got stuck on was the palindromes challenge. I could not find a way to replace the symbols and will have to practice the .replace function more before I fully understand. 
+
+
+
+
+### Day 6: May 7, 2017
+
+**Today's Progress**: Still in basic algorithms
+
+**Thoughts:** I like these challenges because I have to think and plan in order to get it right. I am not going through the challenges as fast which can be frustrating but it seems more rewarding when I get one right. I am learning a lot more about strings and how to manipulate them in Javascript. It is helpful that they have a lot of functions like the .toUpperCase and .toLowerCase. A few of the functions I have found that have been helpful in quite a few challenges are the repeat function, the slice function, and the split function.  
