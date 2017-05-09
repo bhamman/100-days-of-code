@@ -49,3 +49,10 @@ The Object Oriented and Functional Programming reminds my of structs from C++. T
 **Today's Progress**: Still in basic algorithms
 
 **Thoughts:** I like these challenges because I have to think and plan in order to get it right. I am not going through the challenges as fast which can be frustrating but it seems more rewarding when I get one right. I am learning a lot more about strings and how to manipulate them in Javascript. It is helpful that they have a lot of functions like the .toUpperCase and .toLowerCase. A few of the functions I have found that have been helpful in quite a few challenges are the repeat function, the slice function, and the split function.  
+
+
+### Day 0: May 1, 2017
+
+**Today's Progress**: Made more progress in the basic algorithms
+
+**Thoughts:** Tonight I thought I could finish the basic algorithms section. The one I had given up on last night, chunky monkey, only took ten minutes to complete tonight. Taking a break and coming back to it definitely helped. After I completed it I thought the rest wouldn't be as difficult but got stuck again on falsy bouncers. That one is removing all the false values like false, 0, undefined, and so on. I have been able to remove all the false values except null. For some reason null is not being acknowledged when I sort through the array. Need to do research.
